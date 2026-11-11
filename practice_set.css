@@ -1,0 +1,15 @@
+/* * is a universal selector */
+* { 
+     font-family:"Times New Roman";
+}
+#one {
+    text-align: center;
+    text-transform: capitalize;
+    color : rgb(7, 156, 5);
+}
+#outer {
+    font-size: 25px;
+}
+#inner {
+    font-size: 10px;
+}

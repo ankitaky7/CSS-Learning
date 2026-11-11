@@ -1,0 +1,41 @@
+#box {
+    background-color : blue;
+}
+
+/* .heading{
+    color : red;
+} */
+
+h1, h2, h3 {
+    color : red;
+}
+
+button {
+    background-color: green;
+}
+
+/* css hmesha bad wali ka sunta hai */
+p {
+    text-align: left;
+}
+
+#one {
+    font-family: arial;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#two {
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+a{
+    text-decoration: none;
+}
+#two {
+        font-size: 25px;
+}
+#three {
+    line-height:normal;
+    text-transform: capitalize;
+}
